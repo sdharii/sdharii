@@ -1,24 +1,35 @@
-# Hi, I'm S'dhari! 👋
+# Hey, I'm S'dhari! <img src = assets/star.gif width = 30> 
 
-I'm a Software Engineering student passionate about blending art and technology to create meaningful experiences.
+Welcome to my little corner of GitHub!
 
-## 🌱 Currently
+I'm a Software Engineering student with a love for both **programming** and **art**. I enjoy solving problems, learning new technologies, and creating things that are equal parts creative and technical.
+
+When I'm not coding, you'll probably find me working on 3D art, crocheting, or dreaming about pottery.
+
+I'm still learning every day, so this GitHub is a collection of my progress, experiments, and projects as I grow into the developer I want to become.
+
+## Currently <img src = assets/typingcat.gif width = 40>
 - 🎓 Studying Software Engineering at Kennesaw State University
-- 💻 Learning software development and machine learning
+- 💻 Learning Machine Learning & Artificial Intelligence through Break Through Tech
 - 🎮 Interested in game development and interactive experiences
-- 🎨 3D artist with 5+ years of experience
+- 🎨 3D artist with 6+ years of experience
 
-## 🛠️ Technologies
-- Python
-- Java
-- SQL
-- JavaFX
-- React
-- Git
+## Tech Stack <img src = assets/python.gif width = 40>
 
-## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: (coming soon!)
+- **Languages:** Python, Java
+- **AI/ML:** Pandas, NumPy, Scikit-learn, Keras
+- **Tools & Frameworks:** PyGame, JavaFX, Jupyter Notebooks
+- **Databases:** SQLite, MySQL
+
+    [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sdharii&layout=compact&langs_count=4&theme=rose)](https://github-stats-extended.vercel.app/api/top-langs?username=sdharii&layout=compact&langs_count=4&theme=rose)
+
+## Connect with me! <img src = assets/chaircat.gif width = 40>
+- **Linkedin:** https://linkedin.com/in/sdhari-hardy
+- **Email:** sdharihardy8@yahoo.com
+
+<img src = assets/jjk.gif width = 300>
+
+
 
 <!--
 **sdharii/sdharii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
